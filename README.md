@@ -10,5 +10,5 @@ Objectives include developing a Python pipeline to
 - image to point-cloud conversion,
 - develop an algorithm that integrates CCS and Wasserstein distance calculation,
 - compute full and partial distance matrices,
-- evaluate reconstruction time
+- evaluate reconstruction time,
 - compare Signal to Noise ratio vs Rank vs Sampling ratio
