@@ -149,7 +149,7 @@ def set_default_params_ICURC(s):
     return s
 
 
-# ------------ Column only ICURC function ----------- # 
+# ------------ (Matrix completion) Column only ICURC function ----------- # 
 def ICURC(X_Omega, J_ccs, r, params_ICURC):
     params_ICURC = set_default_params_ICURC(params_ICURC)
     eta = params_ICURC['eta']
