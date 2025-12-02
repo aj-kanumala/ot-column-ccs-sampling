@@ -11,4 +11,4 @@ Objectives include developing a Python pipeline to
 - develop an algorithm that integrates CCS and Wasserstein distance calculation,
 - compute full and partial distance matrices,
 - evaluate reconstruction time
-- Compare Signal to Noise ratio vs Rank vs Sampling ratio
+- compare Signal to Noise ratio vs Rank vs Sampling ratio
